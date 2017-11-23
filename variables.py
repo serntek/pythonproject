@@ -37,3 +37,9 @@ print(type(myList),myList)
 
 print(myList[3])
 print(myDict['a'])
+
+
+print(myString,'world')
+
+greeting = myString + ' world'
+print(greeting)
