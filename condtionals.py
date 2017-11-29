@@ -21,4 +21,11 @@ else:
 
     color = 'red'
     if color == 'red':
-     print('color is red')
+        print('color is red')
+
+
+fucks = 0
+
+if fucks < 1:
+
+ print('I give no fucks')
